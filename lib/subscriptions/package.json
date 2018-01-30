@@ -11,9 +11,11 @@
   "dependencies": {
     "async": "^2.6.0",
     "moment": "^2.20.1",
+    "stripe": "^5.4.0",
     "underscore": "^1.8.3"
   },
   "devDependencies": {
+    "nock": "^9.1.6",
     "sinon": "^4.2.1"
   }
 }
